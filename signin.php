@@ -58,7 +58,7 @@ if (isset($_POST['submit'])) {
 
             <div class="checkbox mb-3">
                 <label>
-                    <p class="text-end"><a href="#" class="text-decoration-none">Forgot password?</a></p>
+                    <p class="text-end"><a href="forgot.php" class="text-decoration-none">Forgot password?</a></p>
                 </label>
             </div>
             <?PHP echo $retVal = ($msg == "") ? "" : "<p class='text-success'>*$msg</p>";
