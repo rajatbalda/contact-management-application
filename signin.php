@@ -44,7 +44,7 @@ if (isset($_POST['submit'])) {
 <center>
             <h1 class="h3 mb-3 fw-normal">Sign in</h1>
             </br>
-            <p>Do you have account? <a href="./signup.php" class="text-decoration-none">Sign Up</a></p>
+            <p>Don't have an account? <a href="./signup.php" class="text-decoration-none">Sign Up</a></p>
 </center>
             <label for="floatingInput"><b>Email</b></label>
             <div class="form-floating ">
